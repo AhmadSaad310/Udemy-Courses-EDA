@@ -18,29 +18,14 @@ The goal of this project is to analyze the Udemy courses dataset to uncover patt
 ## Libraries Used
 
 ### 1. NumPy
-NumPy is a fundamental package for scientific computing in Python. It supports large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays. In this project, NumPy is used for numerical operations and array manipulations.
-
-- Official Documentation: [NumPy](https://numpy.org/doc/)
 
 ### 2. Pandas
-Pandas is an open-source data analysis and manipulation tool. It provides powerful data structures such as DataFrames for organizing, cleaning, and manipulating data. In this project, Pandas is used for reading the dataset, handling missing data, and performing data wrangling tasks.
-
-- Official Documentation: [Pandas](https://pandas.pydata.org/docs/)
 
 ### 3. Seaborn
-Seaborn is a data visualization library based on Matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics. In this project, Seaborn is used to create visualizations for data distributions and relationships.
-
-- Official Documentation: [Seaborn](https://seaborn.pydata.org/)
 
 ### 4. Matplotlib (Pyplot)
-Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. In this project, Matplotlib's `pyplot` module is used to generate basic visualizations such as histograms and scatter plots.
-
-- Official Documentation: [Matplotlib Pyplot](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)
 
 ### 5. Plotly Express
-Plotly Express is a high-level interface to Plotly, designed to make data visualization quick and easy. It allows for the creation of interactive plots with minimal code. In this project, Plotly Express is used to create interactive visualizations such as bar charts and scatter plots.
-
-- Official Documentation: [Plotly Express](https://plotly.com/python/plotly-express/)
 
 ## Key Insights from the Analysis
 The following are some key insights derived from the Udemy courses dataset:
@@ -50,9 +35,6 @@ The following are some key insights derived from the Udemy courses dataset:
 3. **Student Enrollment:** Popular categories and courses tend to attract more student enrollments and reviews.
 4. **Course Ratings:** The distribution of course ratings helps to understand student satisfaction across different categories.
 
-## Getting Started
-
-To run the analysis on your local machine, follow these steps:
 
 ### Prerequisites
 Ensure you have the following Python libraries installed:
