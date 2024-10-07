@@ -1,6 +1,6 @@
 # Udemy Courses Exploratory Data Analysis (EDA)
 
-![](https://www.speedreadinglounge.com/wp-content/uploads/review-best-udemy-courses-768x351.jpg)
+![](https://bloggingx.com/wp-content/uploads/2024/02/Udemy.png)
 
 This project provides an Exploratory Data Analysis (EDA) of Udemy courses, utilizing various Python libraries such as **NumPy**, **Pandas**, **Seaborn**, **Matplotlib**, and **Plotly Express**. The analysis is conducted on the dataset containing Udemy course data, which includes insights into course categories, prices, reviews, and more.
 
